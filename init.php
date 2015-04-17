@@ -1,5 +1,5 @@
 <?php
 
-namespace Bolt\Extension\jamiroconca\CrpMediaElement\Extension;
+use Bolt\Extension\jamiroconca\CrpMediaElement\Extension;
 
 $app['extensions']->register(new Extension($app));
