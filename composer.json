@@ -10,7 +10,7 @@
     "authors": [
         {
             "name": "Daniele Conca", 
-            "email": "conca.daniele@gmail.com",
+            "email": "conca.daniele@gmail.com"
         }
     ],
     "autoload": {
