@@ -1,5 +1,5 @@
 {
-    "name": "jamiroconca/CrpMediaElement",
+    "name": "jamiroconca/crpmediaelement",
     "description": "A small Bolt extension for a HTML5 audio and video players in pure HTML and CSS.",
     "type": "bolt-extension",
     "keywords": ["media", "mediaelement", "jquery"],
