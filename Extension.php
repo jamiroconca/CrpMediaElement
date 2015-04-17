@@ -8,6 +8,7 @@ class Extension extends BaseExtension
 
     public function initialize() {
     	if ($this->app['config']->getWhichEnd() == 'frontend') {
+    		$this->addJquery();
             // Add javascript file
             $this->addJavascript("assets/mediaelement-and-player.min.js", true);
             // Add CSS file
